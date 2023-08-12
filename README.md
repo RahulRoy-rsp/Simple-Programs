@@ -6,5 +6,7 @@ Basic Python Programs that should be must Known for any programmers.
 - Prime Numbers
 - Odd even
 - Reversing
+- Digits
+- Programs related to Arrays
 
   and many more.
