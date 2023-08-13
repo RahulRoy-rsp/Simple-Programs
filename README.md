@@ -7,6 +7,6 @@ Basic Python Programs that should be must Known for any programmers.
 - Odd even
 - Reversing
 - Digits
-- Programs related to Arrays
+- Programs related to Arrays that you must know 
 
   and many more.
